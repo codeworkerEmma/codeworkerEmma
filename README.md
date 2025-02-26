@@ -1,4 +1,3 @@
-This is codeworker Emma from NYCU😎
 <!---
 - 👋 Hi, I’m @codeworkerEmma
 - 👀 I’m interested in ...
